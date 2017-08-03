@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Ajax Jquery - Belajarphp.net</title>
+    <title>www.ruangprogrammer.com</title>
 </head>
 <body>
 <form method="post" action="proses-simpan.php">
